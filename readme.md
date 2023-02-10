@@ -27,6 +27,7 @@ The proper way:
 2: Put this in your html header. Replace the path with the path to your copy of sleepycred.js:
 in header:
 ```<script src="/engine/banners/sleepycred.js"></script>```
+
 3: put this in the body where you want the banner to show on your webpage:
 
 ```     <div id="sleepyroll" style="width: 40%; text align: center; margin-left:auto; margin-right:auto;">
