@@ -22,6 +22,8 @@ The dirtiest way: sleepycred.js form sadgirlsclub
         <h4 id="sleepy" style ="background-color: black;text-align: center; border: 2px ridge;"></h4>
         <p style="text-align:center;">Click Member Name to View their page</p>
         </div>```
+        
+        
 The proper way:
 
 1: download and put sleepycred.js on your server
