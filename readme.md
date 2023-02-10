@@ -10,9 +10,11 @@ Sleepycontib banner and code:
 
 If you want to implement a little banner-roll for sleepy artists, i put together a quick and dirty solution. 
 The dirtiest way: sleepycred.js form sadgirlsclub
+
 1: paste this tag into your header:
 
 ```<script src="/engine/banners/sleepycred.js"></script>```
+
 2: Place in your webpage where you want it to be
 
 ```     <div id="sleepyroll" style="width: 40%; text align: center; margin-left:auto; margin-right:auto;">
@@ -25,7 +27,9 @@ The proper way:
 1: download and put sleepycred.js on your server
 
 2: Put this in your html header. Replace the path with the path to your copy of sleepycred.js:
+
 in header:
+
 ```<script src="/engine/banners/sleepycred.js"></script>```
 
 3: put this in the body where you want the banner to show on your webpage:
