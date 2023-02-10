@@ -14,8 +14,7 @@ If you want to implement a little banner-roll for sleepy artists, i put together
 
 2: Put this in your html header. Replace the path with the path to your copy of sleepycred.js:
 in header:
-```
-<script src="/engine/banners/sleepycred.js"></script>```
+```<script src="/engine/banners/sleepycred.js"></script>```
 3: put this in the body where you want the banner to show on your webpage:
 ```<div id="sleepyroll" style="width: 40%; text align: center; margin-left:auto; margin-right:auto;">
         <h4 style ="background-color: black; border: 2px ridge; text-align:center; ">Random SleepyContrib</h4>
