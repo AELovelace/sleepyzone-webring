@@ -3,7 +3,7 @@ Sleepy.Zone Webring:
 For a quick and dirty solution, use the embed code below. Paste into your html where you would like it and size. Embed is unable to be styled by the user and uses a static stylesheet hosted on my servers. 
 ```<div id='sleepyembed' style="width:100%;height:100%;"><embed type="text/html" src="https://sadgirlsclub.wtf/sleepyring.html" style="width: 100%;height: 100%;"></div>```
 
-If you wish to style it, place the css om the included css file into your stylesheet somewhere, then paste the html code into your document where you want it to appear
+If you wish to style it, place the css om the included css file into your stylesheet somewhere, then paste the html code into your document where you want it to appear or download sleepyring.html, place on your site, and replace the path to my site with your copy. Change paths as needed
 
 Sleepycontib banner and code:
 
