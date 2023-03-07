@@ -13,7 +13,7 @@ The dirtiest way: sleepycred.js form sadgirlsclub
 
 1: paste this tag into your header:
 
-```<script src="/engine/banners/sleepycred.js"></script>```
+```<script src="https://sadgirlsclub.wtf/engine/banners/sleepycred.js"></script>```
 
 2: Place in your webpage where you want it to be
 
