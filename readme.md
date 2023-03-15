@@ -42,3 +42,9 @@ in header:
         <h4 id="sleepy" style ="background-color: black;text-align: center; border: 2px ridge;"></h4>
         <p style="text-align:center;">Click Member Name to View their page</p>
         </div>```
+
+Annie's Cute Webring Script:
+
+add ```<script src="https://sleepy.zone/webring/webring-0.1.js" data-site-id="YOUR ID"></script> ``` where you want the little scripty-arrow buttons to be
+after that, check your site's id on the webring at: http://sleepy.zone/webring/data.json amd replace the data-site-id var with your sites id
+Once that's done, style with css to taste. You can find an example css file at https://lavender.software/webring/webring-0.2.0.css
